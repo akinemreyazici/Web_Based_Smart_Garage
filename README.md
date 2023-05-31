@@ -29,7 +29,7 @@ The system maintains a constant flow of data using the MQTT protocol, with a bro
 
 <h2 align="center">Web Interface - Normal State</h2>
 <p align="center">
-  <img src="https://github.com/akinemreyazici/Web_Based_Smart_Garage/assets/116732291/20c71278-1d14-4dc8-9ffc-344cc27d0aeb" width="500">
+  <img src="https://github.com/akinemreyazici/Web_Based_Smart_Garage/assets/116732291/8a3cb303-b439-4ad5-9448-1839bdbedf8a" width="500">
 </p>
 
 In the Normal State:
@@ -43,26 +43,31 @@ In the Normal State:
 
 <h2 align="center">Web Interface - Rainy State</h2>
 <p align="center">
-  <img src="https://github.com/akinemreyazici/Web_Based_Smart_Garage/assets/116732291/de67bd61-2095-4496-948a-0b5303f2eae1" width="500">
+  
+  <img src="https://github.com/akinemreyazici/Web_Based_Smart_Garage/assets/116732291/c62f12f0-9f78-4373-b907-35395ea16b87" width="500">
 </p>
+
 
 In the Rainy State:
 - If the data received from our rain sensor indicates rain, our interface background changes, and a rainy image appears. This is designed to draw the user's attention.
 
 <h2 align="center">Hardware Mockup - View 1</h2>
 <p align="center">
-  <img src="https://github.com/akinemreyazici/Web_Based_Smart_Garage/assets/116732291/7ec5c8ed-a021-49ad-9739-3129b2a99b29" width="500">
+  <img src="https://github.com/akinemreyazici/Web_Based_Smart_Garage/assets/116732291/ec854529-0630-4db3-bff5-7866a0bbe042" width="500">
 </p>
 
 <h2 align="center">Hardware Mockup - View 2</h2>
 <p align="center">
-  <img src="https://github.com/akinemreyazici/Web_Based_Smart_Garage/assets/116732291/c7dfed81-88f9-45c3-872e-aa51fb2c0971" width="500">
+  <img src="https://github.com/akinemreyazici/Web_Based_Smart_Garage/assets/116732291/5368821f-0e66-45f4-86b4-d118e4965698" width="500">
 </p>
 
 <h2 align="center">Hardware Mockup Inside - View 3</h2>
 <p align="center">
-  <img src="https://github.com/akinemreyazici/Web_Based_Smart_Garage/assets/116732291/b0e5aea7-8fe9-423a-b3af-6326713af034" width="500">
+  <img src="https://github.com/akinemreyazici/Web_Based_Smart_Garage/assets/116732291/35e9e543-40a4-4073-a1e4-9e145ce0ef7d" width="500">
 </p>
+
+
+
 
 
 
